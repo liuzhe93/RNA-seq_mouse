@@ -1,0 +1,2 @@
+binding	cell part	cytoplasmic part	membrane-bounded organelle	intracellular part	single-organism process	organelle	protein binding	intracellular organelle	extracellular space
+17.85091091	17.40299725	12.7221152	12.46396302	12.39240976	12.20364811	12.1371527	9.24331826	8.170848622	8.04739805
